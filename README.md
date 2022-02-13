@@ -13,6 +13,8 @@ When running the project in development mode, saving any file (`.js` or `.c`) wi
 
 No need to manually recompile everytime you change your C code!
 
+Deployed result: https://alexcrist.github.io/webpack-wasm-c-livereload/
+
 ## Install dependencies with
 
 ``` npm install ```
