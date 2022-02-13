@@ -20,3 +20,7 @@ No need to manually recompile everytime you change your C code!
 ## Run the project with
 
 ``` npm start ```
+
+## Deploy a production version to Github Pages with
+
+``` npm run deploy ```
