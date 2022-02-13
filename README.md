@@ -1,6 +1,6 @@
 # webpack-wasm-c-livereload
 
-> Starter code for a live-reloading web application that uses C (via Web Assembly) and Webpack.
+> Scaffold for a live-reloading web application that uses WebAssembly with C and Webpack.
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" width="200" />
