@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alexcrist.github.io/wasm-webpack-boilerplate",
+  "homepage": "https://alexcrist.github.io/webpack-wasm-c-livereload",
   "scripts": {
     "start": "MODE=DEV node tools/build.mjs",
     "predeploy": "MODE=PROD node tools/build.mjs",
