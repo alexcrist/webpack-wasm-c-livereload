@@ -1,0 +1,1 @@
+Module.onRuntimeInitialized=()=>{console.log("Hello from JS!");const o=Module.cwrap("add","number",["number","number"])(11,6);console.log("Result",o)};
